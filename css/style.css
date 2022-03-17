@@ -1,0 +1,11 @@
+.my-div {
+    border: 3px solid green;
+    margin: 25px;
+    height: 75px;
+}
+
+.div-one { border-color: red; }
+.div-two { border-color: blue; }
+.div-three { border-color: blueviolet; }
+.div-four { border-color: gold; }
+
